@@ -19,5 +19,5 @@ The project contains two main folders:
 
 - git clone https://github.com/Swikarjadhav14/WayPort
 - cd frontend, npm i, npm start
-- cd backend, npm in, node server.js
+- cd backend, npm i, node server.js
 - Use OTP as 1234 and ID as 1 or 2
