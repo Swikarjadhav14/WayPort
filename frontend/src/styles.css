@@ -1,0 +1,11 @@
+@keyframes shake {
+    0% { transform: translate(1px, 0); }
+    25% { transform: translate(-1px, 0); }
+    50% { transform: translate(1px, 0); }
+    75% { transform: translate(-1px, 0); }
+    100% { transform: translate(0, 0); }
+  }
+  
+  .animate-shake {
+    animation: shake .5s;
+  }
