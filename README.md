@@ -21,3 +21,4 @@ The project contains two main folders:
 - cd frontend, npm i, npm start
 - cd backend, npm i, node server.js
 - Use OTP as 1234 and ID as 1 or 2
+- All the session information is console logged for better understanding and clearity
